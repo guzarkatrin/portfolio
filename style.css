@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+  }
+  
+  .main {
+    height: auto;
+    background-image:
+  url(https://swimsuit.si.com/.image/t_share/MjAxMjk0NDQ5ODA2OTQzNzcx/kendall.jpg);
+    color: white;
+  font-family: monospace;
+  }
+  
+  .container {
+    height:auto;
+  }
+  
+  
+  .container .top {
+    border: 1px solid pink;
+    min-height: 150px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUHDAb1t5Cm6iWBovMnhSA9W7YP7JvgNcIg&usqp=CAU);
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  
+  
+  
+  .container .middle{
+    height: auto;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    }
+  
+  .container .bottom{
+    height: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    }
+  
+  .avatar{
+    height: 200px;
+    width:200px;
+    background-image: url(https://static.independent.co.uk/2023/09/09/10/GettyImages-1340145827.jpg);
+    background-position: center;
+    background-size: cover;  
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: -100px;
+  }
+  
+  .name{
+    color: white;
+    font-size: 50px;
+  }
+  
+  .profession{
+    color: white;
+    font-size: 35px;
+    padding-bottom: 50px;
+    border-bottom: solid white;
+  
+  }
+  .menu-items{
+    padding: 0;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .menu-item {
+    text-decoration: none;
+    color: white;
+  }
